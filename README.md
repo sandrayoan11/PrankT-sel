@@ -1,2 +1,2 @@
-# PrankT-sel
+# Prank-sel
 Prank Telkomsel
